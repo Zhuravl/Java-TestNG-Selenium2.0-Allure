@@ -1,4 +1,5 @@
 .idea
 build
 logs
+target
 *.iml
